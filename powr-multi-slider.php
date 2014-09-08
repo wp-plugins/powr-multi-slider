@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Multi Slider
     Plugin URI: http://www.powr.io
-    Description: Full-featured responsive slider for images, videos, banners, events and more Add the widget to your theme, or create a Multi Slider on ANY page or post by using the shortcode [powr-multi-slider]. Then, simply visit your site and click the settings icon to customize your Multi Slider right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Create a beautiful multi-media slider in seconds! Add the widget to your theme, or create a Multi Slider on ANY page or post by using the shortcode [powr-multi-slider]. Then, simply visit your site and click the settings icon to customize your Multi Slider right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
