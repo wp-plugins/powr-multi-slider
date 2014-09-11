@@ -5,7 +5,7 @@ Donate link: http://powr.io/
 Tags: multi-slider, multislider, accordion slider, carousel, gallery slider, horizontal slider, image slider, photo slider, responsive slider, simple slider, slideshow, vertical slider, video slider, youtube slider, vimeo slider, best slider plugin, carousel slider, content slider, content slideshow, flex slider, image slideshow, javascript slider, javascript slideshow, jquery slider, jquery slideshow, banner slider, event slider, multi-slider widget, multi-slider plugin, mobile responsive
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -74,7 +74,16 @@ Want a more detailed tutorial? Visit [How to add Multi Slider to your Wordpress 
 = 1.0 =
 First released version.
 
+= 1.1 =
+Improved SSL Support
+
+
 
 == Changelog ==
 = 1.0 =
 * First released version
+
+= 1.1 =
+* Improved SSL Support
+
+
