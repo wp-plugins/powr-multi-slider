@@ -22,7 +22,6 @@ First, download, install, and activate POWr Multi Slider. Then drop the widget a
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-multi-slider-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Showcase unlimited images, videos, banners, and events into one seamless slider!
 * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
@@ -36,8 +35,10 @@ First, download, install, and activate POWr Multi Slider. Then drop the widget a
 * Advanced Slide Options - set display time for slides, and choose to enable or disable Right Click on images.
 * Advanced Video Options - set play and autoplay options for video slides.
 * Better Buttons - adjustable sizing for scroll buttons.
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Multi Slider.
