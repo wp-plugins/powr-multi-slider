@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A custom slideshow for photos, videos, and banners!
 
 == Description ==
-[youtube https://youtu.be/6ViBxM8mskI] A custom slideshow for photos, videos, and banners!
+[youtube https://www.youtube.com/watch?v=6ViBxM8mskI] A custom slideshow for photos, videos, and banners!
 <br>
 <br>
 POWr Multi Slider is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
