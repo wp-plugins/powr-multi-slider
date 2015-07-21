@@ -24,8 +24,9 @@ First, download, install, and activate POWr Multi Slider. Then drop the widget a
 <br>
 = Free Features =
 * Showcase images, videos, banners, and events in a seamless slider!
-* Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
-* Create and add thumbnail images, banners, and events with no extra software.
+* Use expert templates or start from scratch.
+* Custom fonts, colors, borders, and backgrounds.
+* Create thumbnails, banners, and event slides with no extra software.
 * Easy to use design tools let you customize animations, captions, sizing, and spacing.
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.  
@@ -33,9 +34,10 @@ First, download, install, and activate POWr Multi Slider. Then drop the widget a
 
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Advanced Slide Options - set display time for slides, and choose to enable or disable Right Click on images.
-* Advanced Video Options - set play and autoplay options for video slides.
-* Better Buttons - adjustable sizing for scroll buttons.
+* Set display time for slides. 
+* Enable auto-play for videos.
+* Disable 'right click' to protect images.
+* Adjust size of scroll buttons.
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
